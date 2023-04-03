@@ -37,7 +37,7 @@ const Header = () => {
                     
                     {open ? <XMarkIcon className="h-6 w-6" onClick={handelMenu} /> : <Bars3Icon className="h-6 w-6" onClick={handelMenu} /> }
                 </span>
-                <ul className={`md:flex relative transition-all duration-300 ${open? 'left-0':'-left-48'}`}>
+                <ul className={`md:flex relative md:static transition-all duration-300 ${open? 'left-0':'-left-48'}`}>
                     {
                         routes.map((route, index) =>
                             <Link route={route} key={index}></Link>
