@@ -1,0 +1,158 @@
+[
+    {
+        "id":"ab6b4be5-5e9e-452a-bf08-d24839bd6ca3",
+        "logo":"https://photos.google.com/photo/AF1QipOQjD6SgSjhXi5j1vKcVltWAIj6Aeo1i2apZ5H0",
+        "job_title": "Participation in this program requires that you are located in the United States for the duration of the engagement.",
+        "company_name":"google llc",
+        "workplace_type": "remote",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "part-time",
+        "salary": "25k-50k",
+        "job_description": "Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Troubleshoot", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Working experience in web development",
+            "Proficiency in HTML, JavaScript, PHP and WordPress platforms",
+            "Experience with website design principles and user experience"
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    },
+    {
+        "id":"506e65cb-2048-49f9-b7c9-5068050d5132",
+        "logo":"",
+        "job_title": "Technical Database Engineer",
+        "company_name":"Microsoft Corporation",
+        "workplace_type": "remote",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "part-time",
+        "salary": "30k-50k",
+        "job_description": "Microsoft is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Microsoft's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Troubleshoot", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Working experience in web development",
+            "Proficiency in HTML, JavaScript, PHP and WordPress platforms",
+            "Experience with website design principles and user experience"
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    },
+    {
+        "id":"ea6f27d5-7962-4697-a112-39907735262b",
+        "logo":"https://photos.google.com/photo/AF1QipN33eLwo_3qNgqt4iZd4F1FPMhauoiiadWoS3G8",
+        "job_title": "Software Engineer",
+        "company_name":"Meta",
+        "workplace_type": "remote",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "part-time",
+        "salary": "35k-50k",
+        "job_description": "Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Troubleshoot", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Bachelor degree to complete any reputation's university.",
+            "Working experience in web development",
+            "Proficiency in HTML, JavaScript, PHP and WordPress platforms",
+            "Experience with website design principles and user experience"
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    },
+    {
+        "id":"ccc96768-bf5f-43b1-aa26-00714ae0031e",
+        "logo":"https://photos.google.com/photo/AF1QipPs986jq5vhNZg8SlD4TJrNdGotyxC2aOVCCQzV",
+        "job_title": "Car Designer",
+        "company_name":"Tesla",
+        "workplace_type": "remote",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "part-time",
+        "salary": "45k-55k",
+        "job_description": "Tesla is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Tesla's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Troubleshoot", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Working experience in web development",
+            "Bachelor degree to complete any reputation's university."
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    },
+    {
+        "id":"75bddcf9-6a74-4ac2-928b-1f8b527e63cc",
+        "logo":"https://photos.google.com/photo/AF1QipOddfMWHalUjOHP1PbZ-nSx9IprCDrl7ZqK6yDt",
+        "job_title": "Software Engineer",
+        "company_name":"Honda Motor Company",
+        "workplace_type": "Onsite",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "full-time",
+        "salary": "25k-50k",
+        "job_description": "Honda is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Honda's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Perfect Design", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Working experience in web development",
+            "Proficiency in HTML, JavaScript, PHP and WordPress platforms",
+            "Experience with website design principles and user experience"
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    },
+    {
+        "id":"08419dd3-2ca2-4be8-8cdd-5ecbc948cc2d",
+        "logo":"https://photos.google.com/photo/AF1QipM0CUKThUC61rtDuuLIoPT7TePlOJcYdkIPYGZh",
+        "job_title": "VFX Editor Needed",
+        "company_name":"Netflix",
+        "workplace_type": "Onsite",
+        "location":"Dhaka, Bangladesh",
+        "job_type": "full-time",
+        "salary": "45k-60k",
+        "job_description": "Netflix is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Netflix's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+        "job_responsibility":[
+            "Troubleshoot", "debug ", "analyze ", "website ideas", "Implement "
+        ],
+        "educational_requirement":[
+            "Working experience in web development",
+            "Proficiency in HTML, JavaScript, PHP and WordPress platforms",
+            "Experience with website design principles and user experience"
+        ],
+        "experiences":"5years",
+        "contact_information":[
+            {
+                "email": "abc@gmail.com",
+                "phone":"01711-xxxxxx"
+            }
+        ]
+    }
+]
