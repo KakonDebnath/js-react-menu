@@ -22,7 +22,7 @@ const Header = () => {
             path: "/services"
         },
         {
-            name: "Products",
+            name: "Jobs",
             path: "/products"
         }
     ]
