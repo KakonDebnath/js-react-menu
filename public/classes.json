@@ -1,0 +1,182 @@
+[
+  {
+    "image": "https://i.ibb.co/7NSdPzk/class-1.jpg",
+    "name": "Course 1",
+    "instructor_name": "Instructor 1",
+    "available_seats": 15,
+    "price": 99.99,
+    "status": "approved",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/JsjtnDD/class-2.jpg",
+    "name": "Course 2",
+    "instructor_name": "Instructor 2",
+    "available_seats": 20,
+    "price": 79.99,
+    "status": "pending",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/5vLdRn1/class-3.jpg",
+    "name": "Course 3",
+    "instructor_name": "Instructor 3",
+    "available_seats": 12,
+    "price": 49.99,
+    "status": "denied",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/M6vsrJP/class-4.jpg",
+    "name": "Course 4",
+    "instructor_name": "Instructor 4",
+    "available_seats": 8,
+    "price": 129.99,
+    "status": "approved",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/8XVvD08/class-5.jpg",
+    "name": "Course 5",
+    "instructor_name": "Instructor 5",
+    "available_seats": 5,
+    "price": 89.99,
+    "status": "pending",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/fvCfyNh/class-6.jpg",
+    "name": "Course 6",
+    "instructor_name": "Instructor 6",
+    "available_seats": 18,
+    "price": 69.99,
+    "status": "approved",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/CbJCckc/class-7.jpg",
+    "name": "Course 7",
+    "instructor_name": "Instructor 7",
+    "available_seats": 10,
+    "price": 59.99,
+    "status": "pending",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/ZKPJS76/class-8.jpg",
+    "name": "Course 8",
+    "instructor_name": "Instructor 8",
+    "available_seats": 25,
+    "price": 39.99,
+    "status": "approved",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/R6W9MXb/class-9.jpg",
+    "name": "Course 9",
+    "instructor_name": "Instructor 9",
+    "available_seats": 7,
+    "price": 119.99,
+    "status": "denied",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/KLtzjKn/class-10.jpg",
+    "name": "Course 10",
+    "instructor_name": "Instructor 10",
+    "available_seats": 14,
+    "price": 149.99,
+    "status": "approved",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/ypNMBcY/class-11.jpg",
+    "name": "Course 11",
+    "instructor_name": "Instructor 11",
+    "available_seats": 9,
+    "price": 79.99,
+    "status": "pending",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/BTF7wdy/class-12.jpg",
+    "name": "Course 12",
+    "instructor_name": "Instructor 12",
+    "available_seats": 11,
+    "price": 89.99,
+    "status": "denied",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/5vLdRn1/class-13.jpg",
+    "name": "Course 13",
+    "instructor_name": "Instructor 13",
+    "available_seats": 17,
+    "price": 109.99,
+    "status": "approved",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/gmVdzWj/class-14.jpg",
+    "name": "Course 14",
+    "instructor_name": "Instructor 14",
+    "available_seats": 6,
+    "price": 69.99,
+    "status": "pending",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/1TcDxs1/class-15.jpg",
+    "name": "Course 15",
+    "instructor_name": "Instructor 15",
+    "available_seats": 20,
+    "price": 59.99,
+    "status": "approved",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/vq4rb3H/class-16.jpg",
+    "name": "Course 16",
+    "instructor_name": "Instructor 16",
+    "available_seats": 13,
+    "price": 49.99,
+    "status": "denied",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/n1Bm5XN/class-17.jpg",
+    "name": "Course 17",
+    "instructor_name": "Instructor 17",
+    "available_seats": 8,
+    "price": 89.99,
+    "status": "approved",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/4dnCxzg/class-18.jpg",
+    "name": "Course 18",
+    "instructor_name": "Instructor 18",
+    "available_seats": 22,
+    "price": 39.99,
+    "status": "pending",
+    "category": "popular"
+  },
+  {
+    "image": "https://i.ibb.co/nbmsq9v/class-19.jpg",
+    "name": "Course 19",
+    "instructor_name": "Instructor 19",
+    "available_seats": 16,
+    "price": 99.99,
+    "status": "approved",
+    "category": "others"
+  },
+  {
+    "image": "https://i.ibb.co/b2HfD18/class-20.jpg",
+    "name": "Course 20",
+    "instructor_name": "Instructor 20",
+    "available_seats": 10,
+    "price": 79.99,
+    "status": "pending",
+    "category": "others"
+  }
+]
